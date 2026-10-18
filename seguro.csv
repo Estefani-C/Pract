@@ -1,0 +1,9 @@
+"seguro_id","nombre","tipo","cobertura_pct","dias_pago","activo"
+1,Seguros Caracas,nacional,70.0,45,1
+2,Mercantil Seguros,nacional,75.0,40,1
+3,Seguros Pirámide,nacional,60.0,60,1
+4,La Previsora,nacional,55.0,75,1
+5,Best Doctors,internacional,90.0,30,1
+6,Bupa Global,internacional,85.0,35,1
+7,IVSS,publico,40.0,90,1
+8,Seguros Horizonte,nacional,50.0,80,0

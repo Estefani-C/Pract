@@ -1,0 +1,13 @@
+"especialidad_id","nombre","area","requiere_referencia"
+1,Medicina Interna,clinica,0
+2,Pediatria,clinica,0
+3,Ginecologia,quirurgica,0
+4,Cardiologia,clinica,1
+5,Traumatologia,quirurgica,1
+6,Dermatologia,clinica,0
+7,Oftalmologia,quirurgica,1
+8,Gastroenterologia,clinica,1
+9,Endocrinologia,clinica,1
+10,Neurologia,clinica,1
+11,Otorrinolaringologia,quirurgica,1
+12,Nutricion,diagnostico,0
